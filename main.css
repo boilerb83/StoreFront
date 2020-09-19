@@ -189,10 +189,10 @@ section #main {
     border: #ccc solid 1px;
     border-radius: 0.6em;
    }
-   section div.panel img.contentWrapper {    /*CHECK THIS HERE*/
+   section div.panel img.CarType {    /*CHECK THIS HERE*/
     width: 100%;
    }
-
+  
 /*Footer*/
 footer {
     background-color: #b9bcc9;
