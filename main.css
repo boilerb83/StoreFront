@@ -73,20 +73,20 @@ div.clear{
 header {
     padding: 2.5em 0 0.5em;
     margin: 0 0 2.0em;
-    background: #39150C url(Assets/bg_cheeses_lg_2600w.jpg) center 0px;
+    background:#b9bcc9 url(Assets/bg_cheeses_lg_2600w.jpg) center 0px;   /*Background for Fast Car Sales*/
 }
 header h1 {
     font-family: "Times New Roman", Times, serif;
-    color: #745b2f;
+    color: #2945e3;    /*Fast Car Sales area*/
     font-size: 7.5em;
     letter-spacing: -0.025em;
     margin: 0;    
-    /*text-shadow: 1px 2px 0 #bd8437;  offset-x | offset-y | blur-radius | color */
+    text-shadow: 1px 2px 0 #a69a9a;  offset-x | offset-y | blur-radius | color 
 }
 header h2 {
     font-weight: 300;
     font-size: 3.8em;
-    color: #2BA967;
+    color: #39150C;
     margin: -0.4em 0 0 1.0em;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -171,13 +171,13 @@ section#sidebar {
 
 /*Main Section*/
 section #main {
-    /*background-color: #FCFBE6;*/
+    background-color: #FCFBE6;
     background-color: rgba(252,251,243,0.7);
     margin: 0 0 2.0em;
     padding: 1.5em  0 2.0em 1.5em;
     display: inline-block;
     border-radius: 2em;
-    box-shadow: 1px 1px 5px #777;/* offset-x | offset-y | blur-radius | color */
+    box-shadow: 1px 1px 5px #777; offset-x | offset-y | blur-radius | color 
    }
    section div.panel{
     float: left;
@@ -195,7 +195,7 @@ section #main {
 
 /*Footer*/
 footer {
-    background-color: #40362f;
+    background-color: #b9bcc9;
     height: 25px;
     font-size: 1.2em;
     color: #fff;
